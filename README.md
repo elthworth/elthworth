@@ -1,3 +1,5 @@
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Activity+Graph+📈;&center=true&vCenter=true&pause=500&width=800&height=45" width="100%" /> 
+
 ![Elthworth's github activity graph](https://activity-graph.herokuapp.com/graph?username=elthworth&theme=chartreuse-dark&custom_title=Contribution%20Graph&bg_color=fdf6e3&color=859900&line=b58900&hide_boder=true)
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=elthworth&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true&custom_title=My%20Github%20Stats" alt="My Github Stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elthworth&layout=compact&theme=solarized-light&hide_border=true&langs_count=10&custom_title=My%20Top%20Languages" alt="Top Languages"/></a> |
