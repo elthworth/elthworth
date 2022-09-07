@@ -3,5 +3,11 @@
 
 ![snake gif](https://raw.githubusercontent.com/elthworth/elthworth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/elthworth/elthworth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elthworth&hide_border=true&theme=solarized-light&custom_title=Code Activities This Week" alt="Activities This Week" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elthworth&hide_border=true&theme=solarized-light&hide_title=true&range=last_7_days" alt="Activities This Week" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-client-rs&theme=swift)](https://github.com/elthworth/casper-client-rs) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=cargo-casper&theme=swift)](https://github.com/elthworth/https://github.com/casper-ecosystem/cargo-casper) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-js-sdk&theme=buefy)](https://github.com/casper-ecosystem/casper-js-sdk) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-contracts-js-clients&theme=buefy)](https://github.com/casper-network/casper-contracts-js-clients) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
