@@ -8,8 +8,8 @@
 <img align="right" src="https://img.shields.io/github/followers/elthworth?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-| <img align="center" src="https://github-profile-trophy.vercel.app/?username=elthworth&margin-w=15&row=1" alt="My Github Stats" /> |
-| ------------------------------------------------------------------------------------------------ | 
+| <img align="center" src="https://github-profile-trophy.vercel.app/?username=elthworth&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" /> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 
 ![snake gif](https://raw.githubusercontent.com/elthworth/elthworth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/elthworth/elthworth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
