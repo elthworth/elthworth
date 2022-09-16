@@ -8,12 +8,12 @@
 <img align="right" src="https://img.shields.io/github/followers/elthworth?label=Follow&style=social" />
 <h1 align="center"></h1>
 
+![Elthworth's github activity graph](https://activity-graph.herokuapp.com/graph?username=elthworth&theme=chartreuse-dark&custom_title=Contribution%20Graph&bg_color=fdf6e3&color=859900&line=b58900&hide_boder=true)
+
 | <img align="center" src="https://github-profile-trophy.vercel.app/?username=elthworth&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 
 ![snake gif](https://raw.githubusercontent.com/elthworth/elthworth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/elthworth/elthworth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-![Elthworth's github activity graph](https://activity-graph.herokuapp.com/graph?username=elthworth&theme=chartreuse-dark&custom_title=Contribution%20Graph&bg_color=fdf6e3&color=859900&line=b58900&hide_boder=true)
 
 <!-- | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elthworth&hide_border=true&theme=solarized-dark&hide_title=true&range=last_7_days" alt="Activities This Week" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -->
