@@ -1,13 +1,8 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Elthworth!;A+Talented+Software+Engineer;Hands+On+Extraordinary+Experience;&center=true&vCenter=true&width=800&height=45" width="100%" /> 
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Elthworth!;A+Talented+Software+Engineer;Handles+Extraordinary+Results;&center=true&vCenter=true&width=800&height=45" width="100%" /> 
 
 <p align="center">
   <img align="center" src="https://s38063.pcdn.co/wp-content/uploads/2021/10/what-is-a-microservice-and-considerations-for-using-microservices-architecture.jpg" style = "width: -webkit-fill-available;"/>
 </p>
-<h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
-</h1>
 
 <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=elthworth.visitor-badge&right_color=blueviolet" />
 <img align="right" src="https://img.shields.io/github/followers/elthworth?label=Follow&style=social" />
