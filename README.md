@@ -8,8 +8,8 @@
 <img align="right" src="https://img.shields.io/github/followers/elthworth?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=elthworth&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true&custom_title=My%20Github%20Stats" alt="My Github Stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elthworth&layout=compact&theme=solarized-light&hide_border=true&langs_count=10&custom_title=My%20Top%20Languages" alt="Top Languages"/></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a><img align="center" src="https://github-profile-trophy.vercel.app/?username=elthworth" alt="My Github Stats" /></a> 
+| -------------------------------------------------------------------------------------------------------------------- | 
 
 ![snake gif](https://raw.githubusercontent.com/elthworth/elthworth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/elthworth/elthworth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
