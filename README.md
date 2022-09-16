@@ -2,7 +2,7 @@
 
 ![Elthworth's github activity graph](https://activity-graph.herokuapp.com/graph?username=elthworth&theme=chartreuse-dark&custom_title=Contribution%20Graph&bg_color=fdf6e3&color=859900&line=b58900&hide_boder=true)
 
-<img align="left" src="https://komarev.com/ghpvc/?username=elthworth&color=blueviolet" />
+<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=elthworth.visitor-badge&right_color=blueviolet" />
 <img align="right" src="https://img.shields.io/github/followers/elthworth?label=Follow&style=social" />
 <h1 align="center"></h1>
 
