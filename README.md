@@ -10,8 +10,7 @@
 
 <div align="center" style="margin:10px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elthworth&theme=solarized-light" alt="My Github Stats" /></div>
 
-<details>
-<summary style="color:yellowgreen;font-family:cursive;font-size:20px"> 💪 Experienced Smart Chains</summary>
+<h2 style="color:yellowgreen;font-family:cursive"> 💪 Experienced Smart Chains</h2>
 
 <table style="font-family:sansserif">
   <tr>
@@ -73,8 +72,7 @@
   </table>
 </details>
 
-<details>
-<summary style="color:yellowgreen;font-family:cursive;font-size:20px"> 🙌 Technical Stacks</summary>
+<h2 style="color:yellowgreen;font-family:cursive"> 🙌 Technical Stacks</h2>
 
 <table>
   <tr>
@@ -191,15 +189,10 @@
   </tr>
 </table>
 
-</details>
-
-<details>
-<summary style="color:yellowgreen;font-family:cursive;font-size:20px"> 🏆 Github Trophies</summary>
+<h2 style="color:yellowgreen;font-family:cursive"> 🏆 Github Trophies</h2>
 
 | <img align="center" src="https://github-profile-trophy.vercel.app/?username=elthworth&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-</details>
 
 <h2 align="left" style="color:yellowgreen;font-family:cursive"> 🚀 Github Activites</h2>
 
