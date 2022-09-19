@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=👋+Welcome+To+Elthworth!+👋;A+Talented+Software+Engineer;Handles+Extraordinary+Results;&center=true&vCenter=true&width=800&height=45&size=30" width="100%" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=👋+Welcome+To+Elthworth!+👋;A+Talented+Software+Engineer;Handles+Extraordinary+Results;&center=true&vCenter=true&width=800&height=45&size=16" width="100%" />
 
 <p align="center">
   <img align="center" src="https://s38063.pcdn.co/wp-content/uploads/2021/10/what-is-a-microservice-and-considerations-for-using-microservices-architecture.jpg" style = "width: -webkit-fill-available;"/>
@@ -10,7 +10,7 @@
 
 <div align="center" style="margin:10px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elthworth&theme=solarized-light" alt="My Github Stats" /></div>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=💪+Experienced+Smart+Chains&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000" width="100%" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=💪+Experienced+Smart+Chains&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
 
 <table style="font-family:sansserif">
   <tr>
@@ -72,7 +72,7 @@
   </table>
 </details>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🙌+Technical+Stacks&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000" width="100%" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🙌+Technical+Stacks&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
 
 <table>
   <tr>
@@ -189,12 +189,12 @@
   </tr>
 </table>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🏆+Github+Trophies&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000" width="100%" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🏆+Github+Trophies&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
 
 | <img align="center" src="https://github-profile-trophy.vercel.app/?username=elthworth&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Github+Activites&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000" width="100%" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Github+Activites&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
 
 ![Elthworth's github activity graph](https://activity-graph.herokuapp.com/graph?username=elthworth&theme=chartreuse-dark&custom_title=Contribution%20Graph&bg_color=fdf6e3&color=859900&line=b58900&hide_boder=true)
 
@@ -203,7 +203,7 @@
 <!-- | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elthworth&hide_border=true&theme=solarized-dark&hide_title=true&range=last_7_days" alt="Activities This Week" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -->
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=⭐+Highlights&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000" width="100%" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=⭐+Highlights&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-client-rs&theme=swift)](https://github.com/elthworth/casper-client-rs) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=cargo-casper&theme=swift)](https://github.com/elthworth/https://github.com/casper-ecosystem/cargo-casper) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
