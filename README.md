@@ -10,68 +10,6 @@
 
 <div align="center" style="margin:10px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elthworth&theme=solarized-light" alt="My Github Stats" /></div>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=💪+Experienced+Smart+Chains&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
-
-<table style="font-family:sansserif">
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cryptologos.cc/logos/casper-cspr-logo.png" width="48" height="48" alt="Casper" />
-      </a>
-      <br>Casper
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/solana.png" width="48" height="48" alt="Solana" />
-      </a>
-      <br>Solana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUCvl89tSAMKbnSZqc9itD8CqFMpaModsxA&usqp=CAU" width="48" height="48" alt="Ethereum" />
-      </a>
-      <br>Ethereum
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0bukCY968PkxsM2v3W7dLuMvkSjS1Ni65vQ&usqp=CAU" width="48" height="48" alt="Binance" />
-      </a>
-      <br>Binance
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://miro.medium.com/max/3150/1*iXlKV_1vNPx2y3xV-tXrWg.png" width="48" height="48" alt="Terra" />
-      </a>
-      <br>Terra
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3plj3648_HE4GOntwzMxwsGq9Ro9qf-wx9w&usqp=CAU" width="48" height="48" alt="React" />
-      </a>
-      <br>Polkadot
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwyOAYn_Z1BalQYMfN8zVqwenavJVSO9SUZ1rz0ZerShW-5Ubzf6U96kLODC-ta2bVks&usqp=CAU" width="48" height="48" alt="Polygon" />
-      </a>
-      <br>Polygon
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/elrond-4441349-3679644.png" width="48" height="48" alt="Elrond" />
-      </a>
-      <br>Elrond
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pf4JAFjfEhB5VY0-TJH4Y1aLS-BPCdddsw&usqp=CAU" width="48" height="48" alt="Avalanche" />
-      </a>
-      <br>Avalanche
-    </td>
-  </tr>
-  </table>
-</details>
-
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🙌+Technical+Stacks&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
 
 <table>
@@ -185,6 +123,67 @@
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
       </a>
       <br>Thanos
+    </td>
+  </tr>
+</table>
+
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=💪+Experienced+Smart+Chains&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
+
+<table style="font-family:sansserif">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cryptologos.cc/logos/casper-cspr-logo.png" width="48" height="48" alt="Casper" />
+      </a>
+      <br>Casper
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/solana.png" width="48" height="48" alt="Solana" />
+      </a>
+      <br>Solana
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUCvl89tSAMKbnSZqc9itD8CqFMpaModsxA&usqp=CAU" width="48" height="48" alt="Ethereum" />
+      </a>
+      <br>Ethereum
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0bukCY968PkxsM2v3W7dLuMvkSjS1Ni65vQ&usqp=CAU" width="48" height="48" alt="Binance" />
+      </a>
+      <br>Binance
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://miro.medium.com/max/3150/1*iXlKV_1vNPx2y3xV-tXrWg.png" width="48" height="48" alt="Terra" />
+      </a>
+      <br>Terra
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3plj3648_HE4GOntwzMxwsGq9Ro9qf-wx9w&usqp=CAU" width="48" height="48" alt="React" />
+      </a>
+      <br>Polkadot
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwyOAYn_Z1BalQYMfN8zVqwenavJVSO9SUZ1rz0ZerShW-5Ubzf6U96kLODC-ta2bVks&usqp=CAU" width="48" height="48" alt="Polygon" />
+      </a>
+      <br>Polygon
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/elrond-4441349-3679644.png" width="48" height="48" alt="Elrond" />
+      </a>
+      <br>Elrond
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pf4JAFjfEhB5VY0-TJH4Y1aLS-BPCdddsw&usqp=CAU" width="48" height="48" alt="Avalanche" />
+      </a>
+      <br>Avalanche
     </td>
   </tr>
 </table>
