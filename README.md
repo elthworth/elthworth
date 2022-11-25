@@ -201,12 +201,11 @@
 
 <!-- | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elthworth&hide_border=true&theme=solarized-dark&hide_title=true&range=last_7_days" alt="Activities This Week" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -->
-
+<!-- 
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=⭐+Highlights&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-client-rs&theme=swift)](https://github.com/elthworth/casper-client-rs) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=cargo-casper&theme=swift)](https://github.com/elthworth/https://github.com/casper-ecosystem/cargo-casper) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-js-sdk&theme=buefy)](https://github.com/casper-ecosystem/casper-js-sdk) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-contracts-js-clients&theme=buefy)](https://github.com/casper-network/casper-contracts-js-clients) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
- -->
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -->
