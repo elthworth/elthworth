@@ -209,3 +209,5 @@
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-js-sdk&theme=buefy)](https://github.com/casper-ecosystem/casper-js-sdk) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-contracts-js-clients&theme=buefy)](https://github.com/casper-network/casper-contracts-js-clients) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -->
+
+![snake gif](https://raw.githubusercontent.com/elthworth/elthworth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/elthworth/elthworth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
