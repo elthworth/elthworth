@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=👋+Welcome+To+Elthworth!+👋;A+Talented+Software+Engineer;Handles+Extraordinary+Results;&center=true&vCenter=true&width=800&height=45&size=16" width="100%" />
+<!-- <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=👋+Welcome+To+Elthworth!+👋;A+Talented+Software+Engineer;Handles+Extraordinary+Results;&center=true&vCenter=true&width=800&height=45&size=16" width="100%" />
 
 <p align="center">
   <img align="center" src="https://s38063.pcdn.co/wp-content/uploads/2021/10/what-is-a-microservice-and-considerations-for-using-microservices-architecture.jpg" style = "width: -webkit-fill-available;"/>
@@ -209,3 +209,4 @@
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-js-sdk&theme=buefy)](https://github.com/casper-ecosystem/casper-js-sdk) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elthworth&repo=casper-contracts-js-clients&theme=buefy)](https://github.com/casper-network/casper-contracts-js-clients) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+ -->
